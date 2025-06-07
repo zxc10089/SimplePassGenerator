@@ -1,6 +1,9 @@
 # 🔒 SimplePassGenerator - 手机密码生成器
 **开发者**：zxc10089 (xcwm95@163.com) | [项目链接](https://github.com/zxc10089/SimplePassGenerator)
 
+## 运行截图
+   ![密码生成器截图](screenshot.jpg)
+
 ## 功能特点
 - 生成8-50位安全密码
 - 自定义包含大写字母/数字/特殊符号
